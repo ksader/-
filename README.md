@@ -1,4 +1,60 @@
 # tilde
-My home directory backup for shell configs and non-sensitive data.
+My home directory backup for shell configs and non-sensitive data. Also my manager's README.md
+  
+Hi there, I'm Keith Sader, and I'm the responsible party here at $COMPANY. $COMPANY has entrusted me with
+this department and the humans reading this to do some fun and profitable stuff. I can't wait to see what
+we do!
 
-The most interesting thing you'll find here is my [.plan](.plan) file. John Carmack is still a development hero of mine.
+These electrons will lay some foundations for our working relationship. Consider this the trial balloon for
+the relationship we'll build here at $COMPANY. My primary responsibility to you is the following:
+1. Find you interesting problems to solve and the context for why this problem matters.
+2. Get you the resources needed to solve them and get out of your way while you're solving them.
+3. Find other amazing people for you to learn and collaborate with.
+
+A bit about me, I come from a software development background. You may have used some of my previous work:
+https://www.edmunds.com
+https://connect.garmin.com
+https://www.equipmentwatch.com
+I also wrote the foundational pieces for the USMC leave system. Semper Vacation!
+I'm passionate about surfing, fitness, and cooking. You can find me in the ocean or the running trails.
+
+I have some core processes I think my team should follow, subject to change/new evidence:
+TDD/Unit-testing
+Scrum XOR Kanban
+Plain text rules all
+Metric driven development will save you long sleepless nights
+A continuous pace of development with limited interruptions is the best way to deliver software
+Delivery pipelines save sanity
+Software serves humans
+Code is design
+
+I manage for results, not appearances. Some results may be intangible - are people working well together, does person X write clearly.
+I'll need to know when you're not available to work, but other than that, I don't think taking attendance is the best use of anyone's time.
+I do care about our systems delighting users and being stable.
+
+Let's talk about you.
+Hello super smart adult who's going to help our users/customers do great things. I already implicitly trust you
+and your thoughts. Those ideas should grow and evolve while you're here with us. You know that doing the
+difficult things are necessary from time to time and that your other teammates have $COMPANY's best interests
+at heart. You know lots of things and aren't afraid to make the effort to learn those things you don't already
+know.
+
+Daily stuff:
+Interrupt me! I'm here to help, guide, and serve. Reach out to me via slack DM, email, or text. My calendar may be booked
+with meetings, but my people will always get my time.
+
+Feedback:
+I believe in weekly 1:1s. I find the ritual of making time for communication useful for my sanity and to make sure nothing
+in the workspace festers. For 1:1s, this is your time, use it. If you have nothing to discuss/need to focus for a day,
+check in with me before cancelling. My feedback tends to be direct and polite. I'd appreciate the same.
+
+I also feel that coaching is the best thing I can do during our time together. I'll always coach you up. No one has ever
+been criticized to greatness.  If you're not a better developer after our time together, I have failed my mission.
+
+Backgrounders:
+I've come to management through multiple other managers and a bunch of reading. Things that still influence me are:
+_Peopleware_ by DeMarco & Lister
+_Software for your Head_ by Jim & Michele McCarthy
+_The Effective Engineer_ by Edmond Lau
+_The Pragmatic Programmer_ by Hunt & Thomas
+Feel free to drop more knowlege and books on me at any time!
